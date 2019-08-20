@@ -1,0 +1,41 @@
+<pre class='metadata'>
+Title: Authorization Capability Query Specification
+Boilerplate: issues-index no, copyright no, abstract no
+Shortname: zcap-query-spec
+Level: 1
+Status: w3c/ED
+Group: Credentials Community Group
+URL: https://digitalbazaar.github.io/zcap-query-spec
+Repository: https://github.com/digitalbazaar/zcap-query-spec
+Max ToC Depth: 2
+</pre>
+
+## Copyright
+<p class="copyright">
+<a href="https://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Copyright</a>
+© 2019 the Contributors to this Specification, published by the
+<a href="https://www.w3.org/community/credentials/">Credentials Community
+Group</a> under the <a href="https://www.w3.org/community/about/agreements/cla/">W3C Community Contributor License Agreement (CLA)</a>.
+A human-readable <a href="https://www.w3.org/community/about/agreements/cla-deed/">summary</a>
+is available.
+</p>
+
+# Preface
+
+TBD
+
+# Abstract
+
+TBD
+
+# Example
+
+TBD
+
+# Security Considerations
+
+TBD
+
+# Reference Implementations
+
+TBD
